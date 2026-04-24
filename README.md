@@ -57,3 +57,6 @@ If the github action works and you cannot find where you can download the result
 
 
 Made with ❤ by Ginsu and Dayanch96
+
+無理やり対応させてやったぜぇ！！
+個人用だけどね！！！
